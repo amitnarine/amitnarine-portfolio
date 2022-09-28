@@ -11,8 +11,8 @@ const Navbar = () => {
           <img src={Logo} alt= "Temp Logo" style={{width: '50px'}}/> 
         </div>
         {/*Menu*/}
-        <div>
-                <ul className='flex'>
+        
+                <ul className='hidden md:flex'>
                   <li>Home</li>
                   <li>About</li>
                   <li>Skills</li>
@@ -20,9 +20,7 @@ const Navbar = () => {
                   <li>Contact</li>
 
                 </ul>
-        </div>
-
-
+        
          {/*Hamburger*/}
          <div className='hidden'>
           <FaBars />
@@ -38,7 +36,7 @@ const Navbar = () => {
         </ul>
 
          {/*Social Icons*/}
-         <div></div>
+         <div className='hidden'></div>
 
     </div>
   )
