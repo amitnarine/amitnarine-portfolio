@@ -66,25 +66,25 @@ const Navbar = () => {
           <ul>
             <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600'>
               <a className='flex justify-between items-center w-full text-gray-300'
-               href='/'>
+               href='https://www.linkedin.com/in/amitnarine'>
                 Linkedin <FaLinkedin size={30} />
               </a>
             </li>
             <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]'>
               <a className='flex justify-between items-center w-full text-gray-300'
-               href='/'>
+               href='https://github.com/amitnarine'>
                 Github <FaGithub size={30} />
               </a>
             </li>
             <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
               <a className='flex justify-between items-center w-full text-gray-300'
-               href='/'>
+               href='mailto:amitnarine@yahoo.com'>
                 Email <HiOutlineMail size={30} />
               </a>
             </li>
             <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
               <a className='flex justify-between items-center w-full text-gray-300'
-               href='/'>
+               href='https://docs.google.com/document/d/e/2PACX-1vQTKGpfTmTXLGxun-WSpjOVkHSVGsWRIx7Gz4xN_ESa7Az_PKvYTk-mBmf9z8o1D7j50ogsL8Ehjfbn/pub'>
                 Resume <BsFillPersonLinesFill size={30} />
               </a>
             </li>
