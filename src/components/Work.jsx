@@ -1,6 +1,4 @@
 import React from 'react'
-import WorkImg from '../assets/workImg.jpeg'
-import realEstate from '../assets/realestate.jpg'
 import Tweeter from '../assets/tweeter.JPG'
 import Weather from '../assets/k.JPG'
 import Quiz from '../assets/quiz.JPG'
@@ -14,7 +12,7 @@ const Work = () => {
         <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
             <div className='pt-20'>
                 <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-[#A238Ca]'>Work</p>
-                <p className='py-3'>// Check out some of my recent work</p>
+                <p className='py-3'> Check out some of my recent work</p>
             </div>
 
             {/*Container*/}
