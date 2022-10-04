@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import Logo from '../assets/logo.png'
+import Logo from '../assets/logogreen.png'
 import {FaBars, FaTimes, FaGithub, FaLinkedin} from 'react-icons/fa'
 import {HiOutlineMail} from 'react-icons/hi'
 import {BsFillPersonLinesFill} from 'react-icons/bs'
@@ -15,7 +15,7 @@ const Navbar = () => {
   return (
     <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0E0B16] text-gray-300'>
 
-        <div className='pt-5 pl-5'>
+        <div className='pt-3 pl-5'>
           <img src={Logo} alt= "Temp Logo" style={{width: '80px'}}/> 
         </div>
         {/*Menu*/}
