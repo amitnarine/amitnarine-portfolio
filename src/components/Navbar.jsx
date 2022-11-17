@@ -29,6 +29,11 @@ const Navbar = () => {
           <a href="/work">Work</a>
         </li>
         <li>
+          <a href="https://docs.google.com/document/d/e/2PACX-1vSoidh17-NCyNVw4lgsfEB5pT3xzlZiM4iaGHPdU6mXw4UoNVIM57BV5lwWjQkmPpfGadV_RfKwjB6p/pub">
+            Resume
+          </a>
+        </li>
+        <li>
           <a href="/contact">Contact</a>
         </li>
       </ul>
@@ -56,6 +61,11 @@ const Navbar = () => {
         </li>
         <li className="py-6 text-4xl">
           <a href="/work">Work</a>
+        </li>
+        <li className="py-6 text-4xl">
+          <a href="https://docs.google.com/document/d/e/2PACX-1vSoidh17-NCyNVw4lgsfEB5pT3xzlZiM4iaGHPdU6mXw4UoNVIM57BV5lwWjQkmPpfGadV_RfKwjB6p/pub">
+            Resume
+          </a>
         </li>
         <li className="py-6 text-4xl">
           <a href="/contact">Contact</a>
